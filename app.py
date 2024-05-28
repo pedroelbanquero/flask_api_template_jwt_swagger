@@ -255,15 +255,11 @@ def crear_vivienda(usuario_id):
 def actualizar_vivienda(usuario_id, vivienda_id):
     print("UPDATING VIVIENDA",usuario_id, vivienda_id,request.json)
     try:
-        print("entra")
         #if not viviendas_collection.find_one({"_id": ObjectId(vivienda_id), "usuario_id": usuario_id}):
         #    return jsonify({"error": "Vivienda no encontrada"}), 404
-        print("entra2")
         #if not request.json:
         #    return jsonify({"error": "Se requiere un cuerpo JSON válido"}), 400
-        print("entra3")
         viviendas_collection.update_one({"_id": ObjectId(vivienda_id), "usuario_id": usuario_id}, {"$set": request.json})
-        print("entra4")
         return jsonify({"mensaje": "Vivienda actualizada correctamente"})
     except Exception as e:
         return jsonify({"error": str(e)}), 500

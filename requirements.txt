@@ -1,0 +1,9 @@
+Flask
+Flask-RESTful
+Flask-RESTPlus
+pymongFlask
+pymongo
+bcrypt
+pyotp
+PyJWT
+flask-swagger-ui

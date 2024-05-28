@@ -1,0 +1,35 @@
+OTP KEY QJ6HRZXQ7UL4EAMGAKUKM5KNJAB4TBSU
+ * Serving Flask app 'app'
+ * Debug mode: on
+OTP KEY ZOE5DHB2CA2LLTYA7Q5QISLSQFNVES52
+{'username': 'OTshs1b8', 'password': 'WHU1xthG'}
+TOKEN eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjY1NTVkN2NjMDVmNWMyNjU2Yjc4ZmZkIiwiZXhwIjoxNzE2ODcyMzI0fQ.FUDwWH9bb1Ptblrp6_fnzK-ylLwKEZ-LCYPzXslrCIk
+{'user_id': '66555d7cc05f5c2656b78ffd', 'exp': 1716872324}
+TOKEN Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjY1NTVkN2NjMDVmNWMyNjU2Yjc4ZmZkIiwiZXhwIjoxNzE2ODcyMzI0fQ.FUDwWH9bb1Ptblrp6_fnzK-ylLwKEZ-LCYPzXslrCIk
+{'user_id': '66555d7cc05f5c2656b78ffd', 'exp': 1716872324}
+CREANDO VIVIENDA
+TOKEN Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjY1NTVkN2NjMDVmNWMyNjU2Yjc4ZmZkIiwiZXhwIjoxNzE2ODcyMzI0fQ.FUDwWH9bb1Ptblrp6_fnzK-ylLwKEZ-LCYPzXslrCIk
+{'user_id': '66555d7cc05f5c2656b78ffd', 'exp': 1716872324}
+USER_ID_VIVIENDAS 66555d7cc05f5c2656b78ffd
+<pymongo.cursor.Cursor object at 0x7ff3eb56f160>
+TOKEN Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjY1NTVkN2NjMDVmNWMyNjU2Yjc4ZmZkIiwiZXhwIjoxNzE2ODcyMzI0fQ.FUDwWH9bb1Ptblrp6_fnzK-ylLwKEZ-LCYPzXslrCIk
+{'user_id': '66555d7cc05f5c2656b78ffd', 'exp': 1716872324}
+TOKEN Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjY1NTVkN2NjMDVmNWMyNjU2Yjc4ZmZkIiwiZXhwIjoxNzE2ODcyMzI0fQ.FUDwWH9bb1Ptblrp6_fnzK-ylLwKEZ-LCYPzXslrCIk
+{'user_id': '66555d7cc05f5c2656b78ffd', 'exp': 1716872324}
+GET USER 66555d7cc05f5c2656b78ffd
+{'_id': ObjectId('66555d7cc05f5c2656b78ffd'), 'usuario': 'OTshs1b8', 'password': '$2b$12$4w2BH/k1MBhqNAZw7zk7J.UIK9lW1RBtNGdSY7Gtb6un0NYdDvIdS'}
+{'username': 'OTshs1b8', 'password': 'contraseñaIncorrecta'}
+{'username': 'OTshs1b8', 'password': 'WHU1xthG'}
+TOKEN eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjY1NTVkN2NjMDVmNWMyNjU2Yjc4ZmZkIiwiZXhwIjoxNzE2ODcyMzI1fQ.gsDORTX14d9gHmK2oUgCh0bznnJAciiQGbGXzONykpw
+{'user_id': '66555d7cc05f5c2656b78ffd', 'exp': 1716872325}
+TOKEN Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjY1NTVkN2NjMDVmNWMyNjU2Yjc4ZmZkIiwiZXhwIjoxNzE2ODcyMzI0fQ.FUDwWH9bb1Ptblrp6_fnzK-ylLwKEZ-LCYPzXslrCIk
+{'user_id': '66555d7cc05f5c2656b78ffd', 'exp': 1716872324}
+TOKEN Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjY1NTVkN2NjMDVmNWMyNjU2Yjc4ZmZkIiwiZXhwIjoxNzE2ODcyMzI0fQ.FUDwWH9bb1Ptblrp6_fnzK-ylLwKEZ-LCYPzXslrCIk
+{'user_id': '66555d7cc05f5c2656b78ffd', 'exp': 1716872324}
+UPDATING VIVIENDA 66555d7cc05f5c2656b78ffd 66555d7cc05f5c2656b78ffe {'nombre': 'Los Jardines 3', 'direccion': 'av las americas 789 4A', 'habitaciones': 5, 'precio': 227000, 'espacio': '220m2'}
+entra
+entra2
+entra3
+entra4
+TOKEN Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjY1NTVkN2NjMDVmNWMyNjU2Yjc4ZmZkIiwiZXhwIjoxNzE2ODcyMzI0fQ.FUDwWH9bb1Ptblrp6_fnzK-ylLwKEZ-LCYPzXslrCIk
+{'user_id': '66555d7cc05f5c2656b78ffd', 'exp': 1716872324}

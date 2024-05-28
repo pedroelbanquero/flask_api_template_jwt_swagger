@@ -10,6 +10,7 @@
 ```bash
 python3 app.py
 ```
+![image](https://github.com/pedroelbanquero/flask_api_template_jwt_swagger/assets/60758685/e0cfb2f4-edad-4d8c-ab5c-642cda1f66fd)
 
 ## Run tests
 
